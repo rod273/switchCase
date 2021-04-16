@@ -1,3 +1,5 @@
+//switch case
+
 const data = new Date();
 let diaSemana = data.getDay();
 let diaSemanaTexto = 7;
